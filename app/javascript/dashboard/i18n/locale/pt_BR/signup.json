@@ -1,12 +1,12 @@
 {
   "REGISTER": {
-    "TRY_WOOT": "Create an account",
+    "TRY_WOOT": "Criar uma conta",
     "TITLE": "Registrar",
     "TESTIMONIAL_HEADER": "Tudo o que é preciso é um passo para seguir em frente",
     "TESTIMONIAL_CONTENT": "Você está a um passo de engajar seus clientes, retê-los e encontrar novos.",
     "TERMS_ACCEPT": "Ao criar uma conta, você concorda com nossos <a href=\"https://www.chatwoot.com/terms\">T & C</a> e <a href=\"https://www.chatwoot.com/privacy-policy\">Política de Privacidade</a>",
     "OAUTH": {
-      "GOOGLE_SIGNUP": "Sign up with Google"
+      "GOOGLE_SIGNUP": "Cadastre-se com o Google"
     },
     "COMPANY_NAME": {
       "LABEL": "Nome da empresa",
