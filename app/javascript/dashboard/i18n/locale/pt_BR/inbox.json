@@ -2,7 +2,7 @@
   "INBOX": {
     "LIST": {
       "TITLE": "Inbox",
-      "DISPLAY_DROPDOWN": "Display",
+      "DISPLAY_DROPDOWN": "Exibir",
       "LOADING": "Buscando notificações",
       "404": "Não há notificações ativas neste grupo.",
       "NO_NOTIFICATIONS": "Sem notificações",
