@@ -25,7 +25,7 @@
         "body": "Adicione agentes à caixa de entrada criada."
       },
       {
-        "title": "Voila!",
+        "title": "Pronto!",
         "route": "settings_inbox_finish",
         "body": "Você está pronto para começar!"
       }
@@ -160,10 +160,10 @@
         }
       },
       "SMS": {
-        "TITLE": "SMS Channel",
-        "DESC": "Start supporting your customers via SMS.",
+        "TITLE": "Canal SMS",
+        "DESC": "Comece a dar suporte aos seus clientes via SMS.",
         "PROVIDERS": {
-          "LABEL": "API Provider",
+          "LABEL": "Provedor de API",
           "TWILIO": "Twilio",
           "BANDWIDTH": "Bandwidth"
         },
@@ -172,7 +172,7 @@
         },
         "BANDWIDTH": {
           "ACCOUNT_ID": {
-            "LABEL": "Account ID",
+            "LABEL": "ID da conta",
             "PLACEHOLDER": "Por favor, insira seu ID de Conta Bandwidth",
             "ERROR": "Este campo é obrigatório"
           },
@@ -187,17 +187,17 @@
             "ERROR": "Este campo é obrigatório"
           },
           "APPLICATION_ID": {
-            "LABEL": "Application ID",
+            "LABEL": "ID do aplicativo",
             "PLACEHOLDER": "Por favor, insira seu ID de Aplicação Bandwidth",
             "ERROR": "Este campo é obrigatório"
           },
           "INBOX_NAME": {
-            "LABEL": "Inbox Name",
+            "LABEL": "Nome da caixa de entrada",
             "PLACEHOLDER": "Por favor, insira um nome para a caixa de entrada",
             "ERROR": "Este campo é obrigatório"
           },
           "PHONE_NUMBER": {
-            "LABEL": "Phone number",
+            "LABEL": "Número de telefone",
             "PLACEHOLDER": "Por favor, insira o número de telefone do qual a mensagem será enviada.",
             "ERROR": "Por favor, forneça um número de telefone válido que comece com um sinal de `+` e não contenha espaços."
           },
@@ -206,7 +206,7 @@
             "ERROR_MESSAGE": "Não conseguimos autenticar as credenciais do Bandwidth, por favor, tente novamente"
           },
           "API_CALLBACK": {
-            "TITLE": "Callback URL",
+            "TITLE": "URL de retorno de chamada",
             "SUBTITLE": "Você deve configurar a URL de retorno de chamada de mensagem no Bandwidth com a URL mencionada aqui."
           }
         }
