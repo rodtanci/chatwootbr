@@ -1,13 +1,13 @@
 {
   "AGENT_MGMT": {
-    "HEADER": "Agents",
-    "HEADER_BTN_TXT": "Add Agent",
-    "LOADING": "Fetching Agent List",
+    "HEADER": "Agentes",
+    "HEADER_BTN_TXT": "Add Agente",
+    "LOADING": "Buscando lista de agentes",
     "DESCRIPTION": "Um agente é um membro da sua equipe de suporte ao cliente que pode visualizar e responder às mensagens dos usuários. A lista abaixo mostra todos os agentes na sua conta.",
     "LEARN_MORE": "Learn about user roles",
     "AGENT_TYPES": {
       "ADMINISTRATOR": "Administrator",
-      "AGENT": "Agent"
+      "AGENT": "Agente"
     },
     "LIST": {
       "404": "Não há agentes associados a esta conta",
@@ -16,7 +16,7 @@
       "NAME": "Name",
       "EMAIL": "EMAIL",
       "STATUS": "Status",
-      "ACTIONS": "Actions",
+      "ACTIONS": "Ações",
       "VERIFIED": "Verificado",
       "VERIFICATION_PENDING": "Verificação Pendente",
       "AVAILABLE_CUSTOM_ROLE": "Permissões de função personalizada disponíveis"
@@ -39,7 +39,7 @@
           "LABEL": "Endereço de Email",
           "PLACEHOLDER": "Por favor, insira um endereço de email do agente"
         },
-        "SUBMIT": "Add Agent"
+        "SUBMIT": "Add Agente"
       },
       "API": {
         "SUCCESS_MESSAGE": "Agente adicionado com sucesso",
@@ -48,7 +48,7 @@
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Deletar",
       "API": {
         "SUCCESS_MESSAGE": "Agente deletado com sucesso",
         "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
@@ -90,7 +90,7 @@
         "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
       },
       "PASSWORD_RESET": {
-        "ADMIN_RESET_BUTTON": "Reset Password",
+        "ADMIN_RESET_BUTTON": "Redefinir senha",
         "ADMIN_SUCCESS_MESSAGE": "Um email com instruções para redefinir a senha foi enviado ao agente",
         "SUCCESS_MESSAGE": "Senha do agente redefinida com sucesso",
         "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
