@@ -95,7 +95,7 @@ RSpec.describe AdministratorNotifications::ChannelNotificationsMailer do
     let(:mail) { described_class.with(account: account).contact_export_complete(file_url, administrator.email).deliver_now }
 
     it 'renders the subject' do
-      expect(mail.subject).to eq("Your contact's export file is available to download.")
+      expect(mail.subject).to eq("O arquivo de exportação do seu contato está disponível para download.")
     end
 
     it 'renders the receiver email' do
