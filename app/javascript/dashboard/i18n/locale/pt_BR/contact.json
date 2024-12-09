@@ -23,11 +23,11 @@
     },
     "LABELS": {
       "CONTACT": {
-        "TITLE": "Rótulos de contato",
+        "TITLE": "Etiquetas do contato",
         "ERROR": "Não foi possível atualizar os rótulos"
       },
       "CONVERSATION": {
-        "TITLE": "Rótulos de conversa",
+        "TITLE": "Etiquetas do conversa",
         "ADD_BUTTON": "Adicionar rótulos"
       },
       "LABEL_SELECT": {
@@ -47,7 +47,7 @@
     "EDIT_LABEL": "Editar",
     "SIDEBAR_SECTIONS": {
       "CUSTOM_ATTRIBUTES": "Atributos personalizados",
-      "CONTACT_LABELS": "Rótulos de contato",
+      "CONTACT_LABELS": "Etiquetas do contato",
       "PREVIOUS_CONVERSATIONS": "Conversas anteriores",
       "NO_RECORDS_FOUND": "Nenhum atributo encontrado"
     }
