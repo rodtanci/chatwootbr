@@ -12,27 +12,27 @@
       "DESC": "Os rótulos permitem agrupar as conversas.",
       "TABLE_HEADER": [
         "Name",
-        "Description",
-        "Color"
+        "Descrição",
+        "Cor"
       ]
     },
     "FORM": {
       "NAME": {
-        "LABEL": "Nome do Rótulo",
-        "PLACEHOLDER": "Nome do rótulo",
-        "REQUIRED_ERROR": "O nome do rótulo é obrigatório",
+        "LABEL": "Nome da Etiqueta",
+        "PLACEHOLDER": "Nome da etiqueta",
+        "REQUIRED_ERROR": "O nome da etiqueta é obrigatório",
         "MINIMUM_LENGTH_ERROR": "É necessário um comprimento mínimo de 2",
         "VALID_ERROR": "Apenas letras, números, hífen e sublinhado são permitidos"
       },
       "DESCRIPTION": {
         "LABEL": "Descrição",
-        "PLACEHOLDER": "Descrição do rótulo"
+        "PLACEHOLDER": "Descrição da etiqueta"
       },
       "COLOR": {
         "LABEL": "Cor"
       },
       "SHOW_ON_SIDEBAR": {
-        "LABEL": "Mostrar rótulo na barra lateral"
+        "LABEL": "Mostrar etiqueta na barra lateral"
       },
       "EDIT": "Editar",
       "CREATE": "Criar",
@@ -41,37 +41,37 @@
     },
     "SUGGESTIONS": {
       "TOOLTIP": {
-        "SINGLE_SUGGESTION": "Adicionar rótulo à conversa",
-        "MULTIPLE_SUGGESTION": "Selecionar este rótulo",
-        "DESELECT": "Desmarcar rótulo",
+        "SINGLE_SUGGESTION": "Adicionar etiqueta à conversa",
+        "MULTIPLE_SUGGESTION": "Selecionar este etiqueta",
+        "DESELECT": "Desmarcar etiqueta",
         "DISMISS": "Descartar sugestão"
       },
       "POWERED_BY": "Chatwoot AI",
       "DISMISS": "Descartar",
-      "ADD_SELECTED_LABELS": "Adicionar rótulos selecionados",
-      "ADD_SELECTED_LABEL": "Adicionar rótulo selecionado",
-      "ADD_ALL_LABELS": "Adicionar todos os rótulos",
-      "SUGGESTED_LABELS": "Rótulos sugeridos"
+      "ADD_SELECTED_LABELS": "Adicionar etiquetas selecionados",
+      "ADD_SELECTED_LABEL": "Adicionar etiqueta selecionado",
+      "ADD_ALL_LABELS": "Adicionar todos os etiquetas",
+      "SUGGESTED_LABELS": "Etiquetas sugeridos"
     },
     "ADD": {
-      "TITLE": "Adicionar rótulo",
-      "DESC": "Os rótulos permitem agrupar as conversas.",
+      "TITLE": "Adicionar etiqueta",
+      "DESC": "As etiquetas permitem agrupar as conversas.",
       "API": {
-        "SUCCESS_MESSAGE": "Rótulo adicionado com sucesso",
+        "SUCCESS_MESSAGE": "Etiqueta adicionada com sucesso",
         "ERROR_MESSAGE": "Houve um erro, por favor tente novamente"
       }
     },
     "EDIT": {
-      "TITLE": "Editar rótulo",
+      "TITLE": "Editar etiqueta",
       "API": {
-        "SUCCESS_MESSAGE": "Rótulo atualizado com sucesso",
+        "SUCCESS_MESSAGE": "Etiqueta atualizada com sucesso",
         "ERROR_MESSAGE": "Houve um erro, por favor tente novamente"
       }
     },
     "DELETE": {
       "BUTTON_TEXT": "Excluir",
       "API": {
-        "SUCCESS_MESSAGE": "Rótulo excluído com sucesso",
+        "SUCCESS_MESSAGE": "Etiqueta excluída com sucesso",
         "ERROR_MESSAGE": "Houve um erro, por favor tente novamente"
       },
       "CONFIRM": {
