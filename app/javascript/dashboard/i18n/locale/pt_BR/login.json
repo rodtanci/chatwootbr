@@ -1,9 +1,9 @@
 {
   "LOGIN": {
-    "TITLE": "Login to Chatwoot",
+    "TITLE": "Login ao Chatwoot",
     "EMAIL": {
       "LABEL": "Email",
-      "PLACEHOLDER": "example@companyname.com",
+      "PLACEHOLDER": "exemplo@emailcorp.com.br",
       "ERROR": "Por favor, insira um endereço de email válido"
     },
     "PASSWORD": {
@@ -17,7 +17,7 @@
     },
     "OAUTH": {
       "GOOGLE_LOGIN": "Login com Google",
-      "BUSINESS_ACCOUNTS_ONLY": "Por favor, use seu email corporativo para fazer login",
+      "BUSINESS_ACCOUNTS_ONLY": "Por favor, use seu email corporativo para fazer o login",
       "NO_ACCOUNT_FOUND": "Não encontramos uma conta para o seu endereço de email."
     },
     "FORGOT_PASSWORD": "Esqueceu sua senha?",
