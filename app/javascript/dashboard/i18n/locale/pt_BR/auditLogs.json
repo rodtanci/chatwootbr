@@ -1,8 +1,8 @@
 {
   "AUDIT_LOGS": {
-    "HEADER": "Audit Logs",
-    "HEADER_BTN_TXT": "Add Audit Logs",
-    "LOADING": "Fetching Audit Logs",
+    "HEADER": "Registros de auditoria",
+    "HEADER_BTN_TXT": "Adicionar Logs de Auditoria",
+    "LOADING": "Obtendo logs de auditoria",
     "DESCRIPTION": "Os Logs de Auditoria mantêm um registro das atividades em sua conta, permitindo que você rastreie e audite sua conta, equipe ou serviços.",
     "LEARN_MORE": "Saiba mais sobre logs de auditoria",
     "SEARCH_404": "Não há itens correspondentes a esta consulta",
