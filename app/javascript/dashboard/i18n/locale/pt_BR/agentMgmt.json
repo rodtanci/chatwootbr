@@ -1,22 +1,22 @@
 {
   "AGENT_MGMT": {
-    "HEADER": "Agents",
-    "HEADER_BTN_TXT": "Add Agent",
-    "LOADING": "Fetching Agent List",
+    "HEADER": "Agentes",
+    "HEADER_BTN_TXT": "Adicionar Agente",
+    "LOADING": "Carregando lista de agentes",
     "DESCRIPTION": "Um agente é um membro da sua equipe de suporte ao cliente que pode visualizar e responder às mensagens dos usuários. A lista abaixo mostra todos os agentes na sua conta.",
-    "LEARN_MORE": "Learn about user roles",
+    "LEARN_MORE": "Saiba mais sobre funções de usuário",
     "AGENT_TYPES": {
-      "ADMINISTRATOR": "Administrator",
-      "AGENT": "Agent"
+      "ADMINISTRATOR": "Administrador",
+      "AGENT": "Agente"
     },
     "LIST": {
       "404": "Não há agentes associados a esta conta",
       "TITLE": "Gerenciar agentes na sua equipe",
       "DESC": "Você pode adicionar/remover agentes na sua equipe.",
-      "NAME": "Name",
+      "NAME": "Nome",
       "EMAIL": "EMAIL",
       "STATUS": "Status",
-      "ACTIONS": "Actions",
+      "ACTIONS": "Ações",
       "VERIFIED": "Verificado",
       "VERIFICATION_PENDING": "Verificação Pendente",
       "AVAILABLE_CUSTOM_ROLE": "Permissões de função personalizada disponíveis"
@@ -39,7 +39,7 @@
           "LABEL": "Endereço de Email",
           "PLACEHOLDER": "Por favor, insira um endereço de email do agente"
         },
-        "SUBMIT": "Add Agent"
+        "SUBMIT": "Adicionar Agente"
       },
       "API": {
         "SUCCESS_MESSAGE": "Agente adicionado com sucesso",
@@ -48,15 +48,15 @@
       }
     },
     "DELETE": {
-      "BUTTON_TEXT": "Delete",
+      "BUTTON_TEXT": "Excluir",
       "API": {
-        "SUCCESS_MESSAGE": "Agente deletado com sucesso",
+        "SUCCESS_MESSAGE": "Agente excluído com sucesso",
         "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
       },
       "CONFIRM": {
         "TITLE": "Confirmar Exclusão",
-        "MESSAGE": "Você tem certeza que deseja deletar ",
-        "YES": "Sim, Deletar ",
+        "MESSAGE": "Você tem certeza que deseja excluir ",
+        "YES": "Sim, Excluir ",
         "NO": "Não, Manter "
       }
     },
@@ -81,16 +81,16 @@
           "PLACEHOLDER": "Por favor, selecione um status de disponibilidade",
           "ERROR": "Disponibilidade é obrigatória"
         },
-        "SUBMIT": "Edit Agent"
+        "SUBMIT": "Editar Agente"
       },
-      "BUTTON_TEXT": "Edit",
+      "BUTTON_TEXT": "Editar",
       "CANCEL_BUTTON_TEXT": "Cancelar",
       "API": {
         "SUCCESS_MESSAGE": "Agente atualizado com sucesso",
         "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
       },
       "PASSWORD_RESET": {
-        "ADMIN_RESET_BUTTON": "Reset Password",
+        "ADMIN_RESET_BUTTON": "Redefinir Senha",
         "ADMIN_SUCCESS_MESSAGE": "Um email com instruções para redefinir a senha foi enviado ao agente",
         "SUCCESS_MESSAGE": "Senha do agente redefinida com sucesso",
         "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
