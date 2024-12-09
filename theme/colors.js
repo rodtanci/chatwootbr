@@ -14,19 +14,19 @@ const {
 } = require('@radix-ui/colors');
 export const colors = {
   woot: {
-    25: blue.blue2,
-    50: blue.blue3,
-    75: blue.blue4,
-    100: blue.blue5,
-    200: blue.blue7,
-    300: blue.blue8,
-    400: blueDark.blue11,
-    500: blueDark.blue10,
-    600: blueDark.blue9,
-    700: blueDark.blue8,
-    800: blueDark.blue6,
-    900: blueDark.blue2,
-  },
+    25: 'rgb(231, 243, 249)', // Tonalidade mais clara (10% de opacidade)
+    50: 'rgb(204, 230, 241)', // Tonalidade clara
+    75: 'rgb(178, 216, 232)', // Tonalidade intermediária clara
+    100: 'rgb(153, 202, 224)', // Tonalidade base
+    200: 'rgb(128, 188, 215)', // Um pouco mais saturado
+    300: 'rgb(102, 173, 206)', // Moderado
+    400: 'rgb(77, 159, 198)', // Intermediário
+    500: 'rgb(81, 150, 171)', // Cor principal
+    600: 'rgb(58, 120, 137)', // Um pouco mais escuro
+    700: 'rgb(46, 95, 108)',  // Escuro moderado
+    800: 'rgb(34, 71, 81)',   // Escuro
+    900: 'rgb(23, 47, 54)',   // Mais escuro
+},
   green: {
     50: greenDark.green12,
     100: green.green6,
