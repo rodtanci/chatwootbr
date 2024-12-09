@@ -1,14 +1,14 @@
 {
   "INTEGRATION_APPS": {
-    "FETCHING": "Buscando Integrações",
+    "FETCHING": "Buscando integrações",
     "NO_HOOK_CONFIGURED": "Não há integrações %{integrationId} configuradas nesta conta.",
     "HEADER": "Aplicações",
     "STATUS": {
-      "ENABLED": "Ativado",
-      "DISABLED": "Desativado"
+      "ENABLED": "Habilitado",
+      "DISABLED": "Desabilitado"
     },
-    "CONFIGURE": "Configurar",
-    "ADD_BUTTON": "Adicionar um novo hook",
+    "CONFIGURE": "Configure",
+    "ADD_BUTTON": "Adicionar um novo gatilho",
     "DELETE": {
       "TITLE": {
         "INBOX": "Confirmar exclusão",
@@ -22,31 +22,31 @@
         "INBOX": "Sim, Excluir",
         "ACCOUNT": "Sim, Desconectar"
       },
-      "CANCEL_BUTTON_TEXT": "Cancelar",
+      "CANCEL_BUTTON_TEXT": "Cancel",
       "API": {
-        "SUCCESS_MESSAGE": "Hook excluído com sucesso",
-        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
+        "SUCCESS_MESSAGE": "Gatilho excluído com sucesso",
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde"
       }
     },
     "LIST": {
-      "FETCHING": "Buscando hooks de integração",
-      "INBOX": "Caixa de Entrada",
+      "FETCHING": "Buscando gatilhos de integração",
+      "INBOX": "Caixa de entrada",
       "DELETE": {
-        "BUTTON_TEXT": "Excluir"
+        "BUTTON_TEXT": "Delete"
       }
     },
     "ADD": {
       "FORM": {
         "INBOX": {
-          "LABEL": "Selecionar Caixa de Entrada",
+          "LABEL": "Selecionar Inbox",
           "PLACEHOLDER": "Selecionar Caixa de Entrada"
         },
         "SUBMIT": "Criar",
         "CANCEL": "Cancelar"
       },
       "API": {
-        "SUCCESS_MESSAGE": "Hook de integração adicionado com sucesso",
-        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor, tente novamente mais tarde"
+        "SUCCESS_MESSAGE": "Gatilho de integração adicionado com sucesso",
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde"
       }
     },
     "CONNECT": {
